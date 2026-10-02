@@ -1,4 +1,4 @@
-# 🏠 Predicción de precios de casas (Ames, Iowa)
+# Predicción de precios de casas (Ames, Iowa)
 
 Modelo de regresión que predice el precio de venta de viviendas a partir de 79 características (superficie, calidad, ubicación, antigüedad, etc.), con foco en un proceso reproducible, sin *data leakage* y con análisis de errores e interpretabilidad.
 
