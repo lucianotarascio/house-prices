@@ -2,7 +2,7 @@
 
 Modelo de regresión que predice el precio de venta de viviendas a partir de 79 características (superficie, calidad, ubicación, antigüedad, etc.), con foco en un proceso reproducible, sin *data leakage* y con análisis de errores e interpretabilidad.
 
-> **Resultado principal:** el mejor modelo (ensamble de `[MODELO A]` + `[MODELO B]`) logra un **RMSE de `[X.XXX]`** en validación cruzada (sobre el log del precio), frente a `[X.XXX]` del baseline.
+> **Resultado principal:** el mejor modelo (ensamble de `[MODELO A]` + `[MODELO B]`) logra un **RMSE de `[X.XXX]`** en validación cruzada (sobre el log del precio), frente a 0.1148 del baseline.
 
 ---
 
